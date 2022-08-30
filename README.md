@@ -9,7 +9,7 @@
 </center>
 
 ## 💻 Projeto
-Desenvolver uma plataforma web para listagem e visualização de pokémons e suas características.
+Projeto desenvolvido de uma plataforma web para listagem e visualização de pokémons e suas características.
 
 Para a contrução desse projeto foram ultilizados HTML, CSS e JavaScript. Todos os dados sobre os Pokémons como o nome, número, tipo, imagem e os atributos, foram retirados da API <a href="https://pokeapi.co/docs/v2">Pokéapi.</a>
 
